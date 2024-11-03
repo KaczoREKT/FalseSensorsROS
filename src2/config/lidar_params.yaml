@@ -1,0 +1,6 @@
+lidar:
+  ros__parameters:
+    csv_file: "/path/to/lidar_data.csv"
+    max_range: 10.0
+    gaussian_noise_stddev: 0.1
+    publish_rate: 10

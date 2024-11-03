@@ -1,0 +1,4 @@
+camera:
+  ros__parameters:
+    video_file: "/path/to/video.mp4"
+    publish_rate: 30
